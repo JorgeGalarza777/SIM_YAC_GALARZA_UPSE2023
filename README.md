@@ -1,3 +1,2 @@
 # SIM_YAC_GALARZA_UPSE2023
-REPOSITORIO PARA SIMULACIÓN NUMÉRICA DE YACIMIENTOS
 Ejercicio de Simulación Numérica de Yacimiento Jorge Galarza 2023
